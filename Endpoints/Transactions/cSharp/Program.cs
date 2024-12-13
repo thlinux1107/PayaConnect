@@ -2,12 +2,12 @@
 //Sample Paya Connect Transactions Endpoint Request - C#.net
 //Thomas Hagan
 //Integration Consultant Sr
-//Paya, Inc.
+//Paya, A Nuvei Company
 //Pubilished: October 10th, 2019
 //     ------------------IMPORTANT!-----------------
 //Application is intended for instructional use only.
 //If you have any questions, please feel free to email
-//the Integration Support team at sdksupport@paya.com
+//the Integration Support team at sdksupport@nuvei.com
 //Also, please make sure to register for sandbox API credentials
 //at our developer portal: https://developer.sandbox.payaconnect.com
 //==========================================================

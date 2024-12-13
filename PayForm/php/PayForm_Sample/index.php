@@ -1,8 +1,8 @@
 <?php
 /*----------------------------------------------
 Author: SDK Support Group
-Company: Paya
-Contact: sdksupport@paya.com
+Company: Paya, A Nuvei Company
+Contact: sdksupport@nuvei.com
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 !!! Samples intended for educational use only!!!
 !!!        Not intended for production       !!!

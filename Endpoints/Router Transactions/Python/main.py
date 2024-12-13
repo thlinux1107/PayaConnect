@@ -1,10 +1,10 @@
 # Originally provided by CORETECHS
 # Sample Updated By: SDK Support, Tech Ops
-# Company: Paya, Inc.
+# Company: Paya, A Nuvei Company
 # For use with Paya Connect (will not work with Paya Gateway (formerly Sage Exchange))!
 # Sample for educational use only - not intended for production.
 # If you have any questions regarding the sample or our APIs
-# please contact us at sdksupport@paya.com
+# please contact us at sdksupport@nuvei.com
 import time
 import json
 import requests

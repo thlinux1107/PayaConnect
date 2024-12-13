@@ -7,7 +7,7 @@
 			"Email Support Fee":11
 		},
 		"location_id":"@locationID",
-		"email": "sdksupport@paya.com",
+		"email": "sdksupport@nuvei.com",
 		"notification_days_before_due_date": "0",
 		"notification_on_due_date": "0"
 	}
